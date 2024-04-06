@@ -1,5 +1,5 @@
 # How ?
-Ensure installed `Solana`, `Rust`, `Anchor`
+Ensure installed `Solana`, `Rust`, `Anchor (version: 0.29.0)`
 
 Run command `anchor build`
 
